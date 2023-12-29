@@ -11,4 +11,3 @@ async function init(){
 }
 
 init();
-// nothing
